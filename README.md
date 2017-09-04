@@ -1,7 +1,9 @@
 # Zookeeper docker image from mcreations/openwrt-java:8
 
 Based on:
+
 https://zookeeper.apache.org/doc/trunk/zookeeperAdmin.html#sc_systemReq
+
 https://zookeeper.apache.org/doc/trunk/zookeeperStarted.html
 
 The image building includes md5sum verification of the installation file. 
